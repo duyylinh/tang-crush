@@ -12,3 +12,4 @@ const CONFIG = {
     mess: 'Yêu em nhiều nhiều 😘😘',
     messDesc: 'Hết cách ly anh đưa bé đi lượn nhaa',
     btnAccept: 'Okiiiii lun <3',
+}
